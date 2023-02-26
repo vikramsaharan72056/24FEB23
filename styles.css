@@ -6,3 +6,6 @@ body{
     width:100%;
     font-family: sans-serif;
 }
+header nav ul {
+    list-style: none;
+}
